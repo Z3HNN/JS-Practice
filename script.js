@@ -35,6 +35,7 @@ const numbers = [13, 2, 5]
 
 const sum = numbers.reduce((total, number, index, array) => {
     console.log(array)
+    console.log(`Number: ${Number}`)
     return total + number
 }, 0)
 

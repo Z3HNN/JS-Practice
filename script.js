@@ -24,3 +24,10 @@ const people = [
     { name: 'Jill', age: 42 },
 ]
 
+const result = people.reduce((groupedPeople, person) => {
+const age = person.age
+if (groupedPeople[age] === null) groupedPeople[age] = []
+groupedPeople[age].push(person)
+return groupedPeople
+}, {})
+

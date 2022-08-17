@@ -31,3 +31,12 @@ groupedPeople[age].push(person)
 return groupedPeople
 }, {})
 
+const numbers = [13, 2, 5]
+
+const sum = numbers.reduce((total, number, index, array) => {
+    console.log(array)
+    return total + number
+}, 0)
+
+console.log(sum)
+

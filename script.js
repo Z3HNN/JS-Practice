@@ -41,3 +41,5 @@ const sum = numbers.reduce((total, number, index, array) => {
 
 console.log(sum)
 
+
+

@@ -1,0 +1,18 @@
+.grandparent{
+    content: "";
+    width: 100px;
+    height:100px;
+    background-color: black;
+}
+.parent{
+    content: "";
+    width: 100px;
+    height:100px;
+    background-color: rgb(235, 152, 152);
+}
+.child{
+    content: "";
+    width: 100px;
+    height:100px;
+    background-color: rgb(158, 12, 12);
+}

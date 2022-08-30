@@ -7,7 +7,7 @@ grandparent.addEventListener("click", e => {
 })
 
 parent.addEventListener("click", e => {
-    console.log("parent 1")
+    console.log("parent 6")
 })
 
 child.addEventListener("click", e => {

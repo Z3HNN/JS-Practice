@@ -19,8 +19,8 @@ console.log(totalPrice)
 
 const people = [
     { name: 'Kyle', age: 66 },
-    { name: 'John', age: 31 },
-    { name: 'Sally', age: 42 },
+    { name: 'John', age: 48 },
+    { name: 'Sally', age: 20 },
     { name: 'Jill', age: 60 },
 ]
 

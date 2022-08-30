@@ -2,7 +2,7 @@ const items = [
     { name: "Noodles", price: 5.89 },
     { name: "Book", price: 20.66 },
     { name: "Chicken", price: 16.89 },
-    { name: "Monitor", price: 100},
+    { name: "Monitor", price: 99.89},
 ]
 
 //let totalPrice = 0

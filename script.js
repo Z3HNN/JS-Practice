@@ -1,7 +1,7 @@
 const items = [
-    { name: "Noodles", price: 5 },
-    { name: "Book", price: 20 },
-    { name: "Chicken", price: 10 },
+    { name: "Noodles", price: 5.89 },
+    { name: "Book", price: 20.66 },
+    { name: "Chicken", price: 16.89 },
     { name: "Monitor", price: 100},
 ]
 

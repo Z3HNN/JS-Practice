@@ -4,5 +4,9 @@ for(let i = 0; i < arr.length; i++){
 }
 }
 
+if (true) {
+    console.log('hi')
+}
+
 let output = bouncer(['a', 'b', null])
 console.log(output)

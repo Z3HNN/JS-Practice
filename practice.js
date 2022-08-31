@@ -9,5 +9,5 @@ let myOutput = myArr.filter(function(item){
     return item < 2
 })
 
-let output = bouncer(['a', 'b', null, 1])
+let output = bouncer(['c', 7, null, 1])
 console.log(output)

@@ -1,13 +1,10 @@
 function bouncer(arr) {
-    let newArr = []
-for(let i = 0; i < arr.length; i++){
-    console.log(arr[i])
-    if(arr[i]) {
-        newArr.push(arr[i])
-    }
 }
-return newArr
-}
+
+let myArr = [1, 2, 4, 7, 1]
+let myOutput = myArr.filter(function(item){
+    return item < 3
+})
 
 let output = bouncer(['a', 'b', null])
 console.log(output)

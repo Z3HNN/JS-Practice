@@ -1,7 +1,11 @@
-const greatgrandparent = document.querySelector(".grandparent")
+const greatgrandparent = document.querySelector(".greatgrandparent")
 const grandparent = document.querySelector(".grandparent")
 const parent = document.querySelector(".Adult")
 const child = document.querySelector(".child")
+
+greatgrandparent.addEventListener("click", e => {
+    console.log(e.target)
+})
 
 grandparent.addEventListener("click", e => {
     console.log(e.target)

@@ -4,7 +4,7 @@ function bouncer(arr) {
     })
 }
 
-let myArr = [1, 2, 4, 6]
+let myArr = [1, 8, 4, 6]
 let myOutput = myArr.filter(function(item){
     return item < 2
 })

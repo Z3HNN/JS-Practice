@@ -8,5 +8,5 @@ function sumAll(arr) {
  return total
 }
 
-let output = sumAll([1, 3])
+let output = sumAll([1, 6])
 console.log(output)

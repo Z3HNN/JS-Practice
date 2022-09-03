@@ -15,7 +15,8 @@ function sum(a, b) {
 
 const num = [1, 2]
 
-console.log(sum(num))
+console.log(...num)
+console.log(sum(...num))
 
 let output = sumAll([1, 6])
 console.log(output)

@@ -8,5 +8,14 @@
  //return total
 //}
 
+function sum(a, b) {
+    return a + b
+
+}
+
+const num = [1, 2]
+
+console.log(sum(num))
+
 let output = sumAll([1, 6])
 console.log(output)

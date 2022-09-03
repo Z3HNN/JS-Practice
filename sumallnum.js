@@ -1,6 +1,6 @@
 function sumAll(arr) {
  let minArr = Math.min(arr[0], arr[1])
- let maxArr 
+ let maxArr = Math.max(arr)
 }
 
 let output = sumAll([1, 3])

@@ -18,5 +18,5 @@ const num = [1, 2]
 console.log(...num)
 console.log(sum(...num))
 
-let output = sumAll([1, 6])
+let output = sumAll([1, 4])
 console.log(output)

@@ -5,5 +5,7 @@ const cowels = ['a', 'e', 'i', 'o', 'u']
 
 
 for (const char of stringToCheck) {
-    
+    if (vowels.indexof(char) >-1){
+        
+    }
 }

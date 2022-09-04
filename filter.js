@@ -3,9 +3,10 @@ const stringToCheck =
 
 const cowels = ['a', 'e', 'i', 'o', 'u']
 
+let newString = '';
 
 for (const char of stringToCheck) {
     if (vowels.indexof(char) >-1){
-        
+        newString += char
     }
 }

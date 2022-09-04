@@ -10,3 +10,5 @@ for (const char of stringToCheck) {
         newString += char
     }
 }
+
+console.log(newString)

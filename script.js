@@ -43,7 +43,7 @@ console.log(sum)
 
 const bakeryItems = [
     { product: "brownies", price: 5 },
-    { product: "cookies", price: 20 },
+    { product: "cookies", price: 2 },
     { product: "bread", price: 10 },
     { product: "cake", price: 100},
 ]

@@ -21,7 +21,7 @@ const people = [
     { name: 'Kyle', age: 6 },
     { name: 'John', age: 3 },
     { name: 'Sally', age: 2 },
-    { name: 'Zeb', age: 42 },
+    { name: 'Zeb', age: 4 },
 ]
 
 const result = people.reduce((groupedPeople, person) => {

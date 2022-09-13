@@ -42,10 +42,10 @@ const sum = numbers.reduce((total, number, index, array) => {
 console.log(sum)
 
 const bakeryItems = [
-    { product: "brownies", price: 5 },
-    { product: "cookies", price: 2 },
-    { product: "bread", price: 10 },
-    { product: "cake", price: 10},
+    { product: "brownies", price: 7 },
+    { product: "cookies", price: 6 },
+    { product: "bread", price: 3 },
+    { product: "cake", price: 8},
 ]
 
 
